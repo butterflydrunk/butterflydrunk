@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Mekan Mammedov (Михаил Медов)
+# Mekan Mammedov
 ### Senior AI Engineer & Autonomous Systems Architect
 **Generative Media Pipelines • 3D Spatial & Competitive ML • FinTech Ledgers**
 

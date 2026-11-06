@@ -11,11 +11,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@grinyamel-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grinyamel)
 [![Email](https://img.shields.io/badge/Email-mikhailmammeedov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikhailmammeedov@gmail.com)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=F97316&background=00000000&center=true&vCenter=true&width=720&height=35&lines=%3E+Autonomous+Content-Factories+(Headless+ComfyUI+%26+Flux.1+LoRA);%3E+Top-1+Record+on+Zindi+AI4EAC+(Apex+V33.0+Early+Warning);%3E+Sub-2ms+Retail+Ledgers+(Marytelecom+11+POS+%7C+SQLite+WAL);%3E+Differential+BOLA+%2F+IDOR+Security+Audits+(Palantir+Standards)" alt="Live Terminal Stream" />
+
 </div>
 
 ---
 
-### ⚡ Core Engineering Focus
+### Core Engineering Focus
 
 * **Generative Media & Content-Factories:** Headless ComfyUI orchestration (WebSocket API, dynamic JSON workflows, custom Python nodes). Commercial LoRA fine-tuning (**Flux.1 Dev/Schnell**, SDXL) with **98%+ character consistency** (ArcFace / CLIP score Quality Gate). Programmatic video/audio synthesis (**Remotion**, **FFmpeg CLI**, **F5-TTS**, EBU R128).
 * **3D Spatial, Medical AI & Competitive ML:** 3D LiDAR point cloud segmentation (`laspy`), satellite raster analytics (`rasterio`, GeoTIFF). **Top-1 Record on Zindi AI4EAC Liquidity Stress** (Apex V33.0, LogLoss `0.2276`, LightGBM/CatBoost/RealMLP stacking) & Sber AI Journey participant. 3D WebGL cardiovascular hemodynamic modeling.
@@ -23,7 +27,7 @@
 
 ---
 
-### 🚀 Production Systems & Real Repositories
+### Production Systems & Real Repositories
 
 | Project | Domain & Architecture | Core Stack | Proven Result / Benchmark |
 |---|---|---|---|
@@ -36,7 +40,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 ```
 ├── Generative AI:    Headless ComfyUI, LoRA (Flux.1, SDXL), ControlNet, ArcFace, Remotion, FFmpeg, F5-TTS
@@ -50,3 +54,5 @@
 <div align="center">
   <sub>Full-Time Remote / B2B Outstaff • Sole Proprietor (ИП) • Available for Generative AI & FinTech Architecture</sub>
 </div>
+
+![Synthwave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:11071f,40:701a75,100:f97316&height=100&section=footer)

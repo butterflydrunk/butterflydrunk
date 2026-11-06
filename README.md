@@ -1,57 +1,50 @@
 <div align="center">
 
-# Mekan Mammedov 
-### Lead AI & Systems Automation Architect | High-Performance Python & Sub-2ms Data Systems
+# Mekan Mammedov (Михаил Медов)
+### Senior AI Engineer & Autonomous Systems Architect
+**Generative Media Pipelines • 3D Spatial & Competitive ML • FinTech Ledgers**
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-butterflydrunk.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://butterflydrunk.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-butterflydrunk.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://butterflydrunk.github.io/portfolio/)
 [![Web Gallery](https://img.shields.io/badge/Sanly_Gallery-tm--web--gallery-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://butterflydrunk.github.io/tm-web-gallery/)
-[![Telegram](https://img.shields.io/badge/Telegram-@ButterflyDrunk-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ButterflyDrunk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Direct Email](https://img.shields.io/badge/Direct_Contact-mammedovmekan%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mammedovmekan@icloud.com)
-
-<p align="center">
-  <b>Sub-2ms Systems. Zero-Slop Architecture. Sovereign & Resilient B2B Engineering.</b>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-@grinyamel-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grinyamel)
+[![Email](https://img.shields.io/badge/Email-mikhailmammeedov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikhailmammeedov@gmail.com)
 
 </div>
 
 ---
 
-### 🏛️ Engineering Philosophy & Ethos
+### ⚡ Core Engineering Focus
 
-I engineer resilient digital factories and high-performance backend infrastructure designed to run 24/7 with zero maintenance overhead.
-
-* **The Ponytail & YAGNI Doctrine:** Maximum structural durability. I choose typed Python 3.12+ (FastAPI, Pydantic v2), Go, SQLite FTS5, and low-level protocol tuning over bloated, brittle microservice sprawl.
-* **Sub-2ms First Principle:** National portals, telemetry aggregators, and critical B2B pipelines must execute offline-first with deterministic sub-2ms response times.
-* **High-Assurance Security:** Zero tolerance for credential leaks, automated differential IDOR/BOLA scanners, and resilient Anti-DPI transport layers.
+* **Generative Media & Content-Factories:** Headless ComfyUI orchestration (WebSocket API, dynamic JSON workflows, custom Python nodes). Commercial LoRA fine-tuning (**Flux.1 Dev/Schnell**, SDXL) with **98%+ character consistency** (ArcFace / CLIP score Quality Gate). Programmatic video/audio synthesis (**Remotion**, **FFmpeg CLI**, **F5-TTS**, EBU R128).
+* **3D Spatial, Medical AI & Competitive ML:** 3D LiDAR point cloud segmentation (`laspy`), satellite raster analytics (`rasterio`, GeoTIFF). **Top-1 Record on Zindi AI4EAC Liquidity Stress** (Apex V33.0, LogLoss `0.2276`, LightGBM/CatBoost/RealMLP stacking) & Sber AI Journey participant. 3D WebGL cardiovascular hemodynamic modeling.
+* **FinTech Ledgers & Retail Architecture:** High-reliability payment gateways, Double-Entry accounting ($\\sum \\text{Debit} = \\sum \\text{Credit}$), automated 3-way reconciliation, race-condition prevention (Redis Redlock + PostgreSQL OCC), API idempotency (`Idempotency-Key`), and OpenAPI 3.0 / gRPC / BPMN 2.0 modeling.
 
 ---
 
-### 🚀 Key Production Assets & Architectural Milestones
+### 🚀 Production Systems & Real Repositories
 
-| System | Domain / Pain Solved | Architecture & Stack | Key Benchmark |
+| Project | Domain & Architecture | Core Stack | Proven Result / Benchmark |
 |---|---|---|---|
-| **[Gowshut Kassa](https://github.com/butterflydrunk/gowshut_kassa)** | Multi-terminal retail ledger for Marytelecom (11 POS, 5 services) | Django, SQLite, mkcert SSL, Local Neural TTS | **< 2ms** ledger sync, zero WAN locks |
-| **[Online TM Portal](https://github.com/butterflydrunk/online_tm_portal)** | Sovereign national web portal indexing 800+ platforms | SQLite FTS5, OmniSearch (Cmd+K), Audio Core | **Sub-2ms** local search, zero dependencies |
-| **[Access Logic Auditor](https://github.com/butterflydrunk/access_logic_auditor)** | Two-session differential BOLA / IDOR security scanner | Async Python, MITM Engine, Palantir PDF Exporter | Automated PoC replay with cURL |
-| **[Sanly Yurek](https://github.com/butterflydrunk/sanly-yurek)** | Medical AI consultation & 3D coronary hemodynamics simulation | FastAPI, Three.js WebGL, Prompt Caching | 3D WebGL real-time flow visualization |
-| **[TM Web Gallery](https://github.com/butterflydrunk/tm-web-gallery)** | Sovereign visual intelligence portal & automated radar | GitHub Pages CI/CD, Async Scraper, WebP Core | Sub-100ms global static delivery |
-| **[Parnik Monitoring](https://github.com/butterflydrunk/parnik-monitoring)** | Industrial greenhouse microclimate & irrigation telemetry | TypeScript, Vite, Tailwind, JSON Datastore | Zero background overhead, kiosk mode |
+| **[Prompthero AI Bot](https://github.com/butterflydrunk/prompthero-ai-bot)** | Autonomous multi-modal scraping, LLM prompt expansion & ComfyUI generation | Python, ComfyUI API, Redis, Celery, Telegram | **100+ automated posts/day**, zero manual intervention |
+| **[Sanly Yurek](https://github.com/butterflydrunk/sanly-yurek)** | Medical AI twin: 3D coronary hemodynamics & virtual stent simulation | FastAPI, Three.js WebGL, Prompt Caching | Real-time 3D vascular blood flow visualization |
+| **[Gowshut Kassa](https://github.com/butterflydrunk/gowshut_kassa)** | Commercial multi-terminal retail ledger for Marytelecom (11 POS, 5 services) | Django, SQLite WAL, mkcert SSL, Kiosk Print | **< 2ms** ledger synchronization, offline resilience |
+| **[Access Logic Auditor](https://github.com/butterflydrunk/access_logic_auditor)** | Differential two-session BOLA / IDOR security scanner | Async Python, MITM Engine, Palantir PDF Exporter | Automated PoC replay with verifiable cURL |
+| **[TM Web Gallery](https://github.com/butterflydrunk/tm-web-gallery)** | Sovereign visual intelligence directory & radar (809 platforms) | GitHub Pages CI/CD, Async Scraper, WebP Core | Sub-100ms global edge delivery, zero dependencies |
+| **[Parnik Monitoring](https://github.com/butterflydrunk/parnik-monitoring)** | Industrial greenhouse microclimate & automated irrigation telemetry | TypeScript, Vite, Tailwind, JSON Datastore | Autonomous 24/7 telemetry monitoring |
 
 ---
 
-### ⚙️ Core Technical Arsenal
+### 🛠️ Technical Arsenal
 
 ```
-├── Languages & Core:     Python 3.12+ (FastAPI, Pydantic v2), Go, Modern TypeScript, SQL, Bash
-├── Databases & Storage:   SQLite FTS5, LanceDB, DuckDB, Redis, PostgreSQL
-├── Network & Anti-DPI:    Wireshark, mitmproxy, TLS Fingerprinting (JA3/JA4), VLESS gRPC, mkcert SSL
-├── AI & Edge Inference:   ONNX Runtime (FP16), F5-TTS, RapidOCR, Prompt Caching, Local LLM Inference
-└── DevOps & Quality:      Docker, GitHub Actions CI/CD, Ruff, Pytest, Zero-Slop Architecture Gate
+├── Generative AI:    Headless ComfyUI, LoRA (Flux.1, SDXL), ControlNet, ArcFace, Remotion, FFmpeg, F5-TTS
+├── ML & Data:        PyTorch, LightGBM, CatBoost, laspy (LiDAR), rasterio (GeoTIFF), OpenCV, ONNX Runtime
+├── Backend & FinTech: Python 3.12+ (FastAPI, asyncio), Double-Entry Ledgers, Redis (Redlock), PostgreSQL, Celery
+└── Architecture:     Docker, OpenAPI 3.0, gRPC, BPMN 2.0 / UML, GitHub Actions CI/CD, mkcert SSL
 ```
 
 ---
 
 <div align="center">
-  <sub>Available for B2B Systems Architecture, High-Impact Technical Audits, and Custom Automation Engineering.</sub>
+  <sub>Full-Time Remote / B2B Outstaff • Sole Proprietor (ИП) • Available for Generative AI & FinTech Architecture</sub>
 </div>

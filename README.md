@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mekan Mammedov (Михаил Медов)
+# Mekan Mammedov 
 ### Lead AI & Systems Automation Architect | High-Performance Python & Sub-2ms Data Systems
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-butterflydrunk.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://butterflydrunk.github.io/portfolio/)

@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=F97316&background=00000000&center=true&vCenter=true&width=720&height=35&lines=%3E+Autonomous+Content-Factories+(Headless+ComfyUI+%26+Flux.1+LoRA);%3E+Top-1+Record+on+Zindi+AI4EAC+(Apex+V33.0+Early+Warning);%3E+Sub-2ms+Retail+Ledgers+(Marytelecom+11+POS+%7C+SQLite+WAL);%3E+Differential+BOLA+%2F+IDOR+Security+Audits+(Palantir+Standards)" alt="Live Terminal Stream" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=F97316&background=00000000&center=true&vCenter=true&width=720&height=35&lines=%3E+Autonomous+Content-Factories+(Headless+ComfyUI+%26+Flux.1+LoRA);%3E+Top-1+Record+on+Zindi+AI4EAC+(Apex+V33.0+Early+Warning);(Marytelecom+11+POS+%7C+SQLite+WAL);%3E+Differential+BOLA+%2F+IDOR+Security+Audits+(Palantir+Standards)" alt="Live Terminal Stream" />
 
 </div>
 

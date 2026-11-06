@@ -1,3 +1,5 @@
+![Synthwave Header](https://capsule-render.vercel.app/api?type=waving&color=0:11071f,40:701a75,100:f97316&height=220&section=header&text=BUTTERFLYDRUNK&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Autonomous%20Digital%20Factories%20%7C%20SaaS%20Architect&descSize=20&descColor=fed7aa&descAlignY=62)
+
 <div align="center">
 
 # Mekan Mammedov (Михаил Медов)
@@ -17,7 +19,7 @@
 
 * **Generative Media & Content-Factories:** Headless ComfyUI orchestration (WebSocket API, dynamic JSON workflows, custom Python nodes). Commercial LoRA fine-tuning (**Flux.1 Dev/Schnell**, SDXL) with **98%+ character consistency** (ArcFace / CLIP score Quality Gate). Programmatic video/audio synthesis (**Remotion**, **FFmpeg CLI**, **F5-TTS**, EBU R128).
 * **3D Spatial, Medical AI & Competitive ML:** 3D LiDAR point cloud segmentation (`laspy`), satellite raster analytics (`rasterio`, GeoTIFF). **Top-1 Record on Zindi AI4EAC Liquidity Stress** (Apex V33.0, LogLoss `0.2276`, LightGBM/CatBoost/RealMLP stacking) & Sber AI Journey participant. 3D WebGL cardiovascular hemodynamic modeling.
-* **FinTech Ledgers & Retail Architecture:** High-reliability payment gateways, Double-Entry accounting ($\\sum \\text{Debit} = \\sum \\text{Credit}$), automated 3-way reconciliation, race-condition prevention (Redis Redlock + PostgreSQL OCC), API idempotency (`Idempotency-Key`), and OpenAPI 3.0 / gRPC / BPMN 2.0 modeling.
+* **FinTech Ledgers & Retail Architecture:** High-reliability payment gateways, Double-Entry accounting ($\sum \text{Debit} = \sum \text{Credit}$), automated 3-way reconciliation, race-condition prevention (Redis Redlock + PostgreSQL OCC), API idempotency (`Idempotency-Key`), and OpenAPI 3.0 / gRPC / BPMN 2.0 modeling.
 
 ---
 
